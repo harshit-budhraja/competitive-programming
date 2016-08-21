@@ -1,4 +1,3 @@
-// Author - Harshit Budhraja
 #include<stdio.h>
 int main()
 {
