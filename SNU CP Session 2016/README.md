@@ -5,3 +5,11 @@ Coding compiler - GNU GCC 4.9.2
 
 
 P.S. To everyone for whom this session is intended, please don't copy this code. Use it for your understanding and try to solve the problem yourself. It'll definitely help you in the future.
+
+List and links to the problems:-
+
+http://codeforces.com/problemset/problem/330/A[http://codeforces.com/problemset/problem/330/A]
+http://codeforces.com/problemset/problem/614/A[http://codeforces.com/problemset/problem/614/A]
+http://codeforces.com/problemset/problem/405/A[http://codeforces.com/problemset/problem/405/A]
+http://codeforces.com/contest/612/problem/C[http://codeforces.com/contest/612/problem/C]
+http://codeforces.com/problemset/problem/621/B[http://codeforces.com/problemset/problem/621/B]
