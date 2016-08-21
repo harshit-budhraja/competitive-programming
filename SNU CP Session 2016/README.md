@@ -8,8 +8,8 @@ P.S. To everyone for whom this session is intended, please don't copy this code.
 
 List and links to the problems:-
 
-http://codeforces.com/problemset/problem/330/A[http://codeforces.com/problemset/problem/330/A]
-http://codeforces.com/problemset/problem/614/A[http://codeforces.com/problemset/problem/614/A]
-http://codeforces.com/problemset/problem/405/A[http://codeforces.com/problemset/problem/405/A]
-http://codeforces.com/contest/612/problem/C[http://codeforces.com/contest/612/problem/C]
-http://codeforces.com/problemset/problem/621/B[http://codeforces.com/problemset/problem/621/B]
+http://codeforces.com/problemset/problem/330/A
+http://codeforces.com/problemset/problem/614/A
+http://codeforces.com/problemset/problem/405/A
+http://codeforces.com/contest/612/problem/C
+http://codeforces.com/problemset/problem/621/B
